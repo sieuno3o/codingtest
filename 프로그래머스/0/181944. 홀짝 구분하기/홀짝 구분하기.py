@@ -1,6 +1,6 @@
 T = int(input())
 
 if T % 2 == 0:
-    print(T, "is even")
+    print(f'{T} is even')
 else:
-    print(T, "is odd")
+    print(f'{T} is odd')
